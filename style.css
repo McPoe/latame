@@ -1,0 +1,70 @@
+body{
+	font-family: helvetica;
+	margin: 0%;
+	padding: 0%;
+	background: url(loop2.gif) repeat;
+}
+
+.container{
+	margin: 0 25%;
+	background-color: #EFF5FB;
+	padding: 20px;
+	position: relative;
+}
+
+.yoyo{
+	height: 250px;
+	margin-bottom: 10px;
+	border-radius: 50%; 
+}
+
+form{
+	text-align: center;
+}
+
+input{
+	width: 500px;
+	height: 45px;
+	font-size: 17px;
+	border: solid 1px #8EBECD;
+}
+textarea{
+	width: 500px;
+	height: 260px;
+	font-size: 17px;
+	border: solid 1px #8EBECD;
+}
+
+#boton{
+	margin: 0 37%;
+	text-align: center;
+	border-radius: 10px;
+	background-color: #45006A;
+	padding: 10px 50px;
+	color: #EFF5FB;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+#boton:hover{
+	background-color: #2096A3;
+}
+
+.description{
+	text-align: center;
+	font-size: 17px;
+	margin-bottom: 50px;
+}
+
+.titulo, .subtitulo{
+	text-align: center;
+	color: #45006A;
+	text-shadow: 2px 2px 2px #2096A3;
+}
+
+hr.small{
+	width: 30px;
+	margin-bottom: 20px;
+}
+
+
